@@ -1,0 +1,27 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i tailwind.css -o ./public/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srvenu/Tailwind_CSS.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/srvenu/Tailwind_CSS/issues"
+  },
+  "homepage": "https://github.com/srvenu/Tailwind_CSS#readme",
+  "dependencies": {
+    "tailwind": "^2.3.1"
+  }
+}
